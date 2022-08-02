@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabricio</h1>
+<h1 align="center">Hi 👋, I'm Fabricio</h1> 👨‍💻
 <h3 align="center">I’m interested in Full-Stack Development</h3>
 
 ### Languages and Tools:

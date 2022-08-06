@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Fabricio 👨‍💻</h1>
-<h3 align="center">I’m interested in Full-Stack Development</h3>
+<h1>Hi, I'm Fabricio 👨‍💻</h1>
+<img src="http://readme-typing-svg.herokuapp.com?size=30&lines=I'm+a+frontend+developer" alt="Typing SVG" />
 
 ### Languages and Tools:
 

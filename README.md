@@ -1,7 +1,6 @@
 <h1>Hi, I'm Fabricio 👨‍💻</h1>
 <img src="http://readme-typing-svg.herokuapp.com?size=30&lines=I'm+a+frontend+developer" alt="Typing SVG" />
 
-### Languages and Tools:
 
 <h4>Skills... ⚒</h4>
 
